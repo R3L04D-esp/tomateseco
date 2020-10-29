@@ -1,0 +1,25 @@
+{
+    "name": "tomateseco",
+    "version": "0.0.2",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/R3L04D-esp/tomateseco.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/R3L04D-esp/tomateseco/issues"
+    },
+    "homepage": "https://github.com/R3L04D-esp/tomateseco#readme",
+    "dependencies": {
+      "discord.js": "^12.4.1",
+      "express": "^4.17.1"
+    }
+  }
+  
